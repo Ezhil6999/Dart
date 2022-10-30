@@ -1,0 +1,28 @@
+void main() {
+  print('Hello world!');
+  //single line command
+  /*MultiLine 
+  command
+  
+  DataTypes:
+      1.Number
+         -Integer-->int
+         -Double-->double
+      2.String-->String--represented in-->''
+      3.Boolean-->bool
+      4.Lists
+      5.Maps
+  Operators:
+      1.Arithmetic-->+,-,*,/,~/(while dividing returns integer value),%,++,--
+      2.Relational--><,>,<=,>=,==,!=
+      3.Type Test-->is,is!
+      4.Bitwise-->
+      5.Assignment-->+=,-=,*=,/=,~/=,%=
+      6.Logical-->&&,||,!
+      */
+      var name='Ezhil raj';
+      var num=100;
+      int va=89;
+      print(num + va);
+
+}
